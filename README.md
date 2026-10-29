@@ -2,7 +2,7 @@
 
 Formulario de inscripcion redisenado aplicando principios de UX/UI.
 
-Pagina publicada: https://heraldochoa-del.github.io/taller-ux/
+Pagina publicada: https://heraldoochoa-del.github.io/taller-ux/
 
 ## Cambios aplicados
 
